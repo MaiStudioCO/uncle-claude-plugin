@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uncle": {
+      "type": "http",
+      "url": "https://mcp.uncleapp.co/mcp"
+    }
+  }
+}

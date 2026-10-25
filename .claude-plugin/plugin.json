@@ -1,0 +1,15 @@
+{
+  "name": "uncle",
+  "displayName": "UNCLE",
+  "version": "1.0.0",
+  "description": "Ask about, add and update the records in your UNCLE workspaces, move them along their steps and decide approvals, from Claude.",
+  "author": {
+    "name": "Mai Studio OÜ",
+    "email": "uncle@maistudio.co",
+    "url": "https://uncleapp.co"
+  },
+  "homepage": "https://uncleapp.co/claude",
+  "repository": "https://github.com/MaiStudioCO/uncle-claude-plugin",
+  "license": "MIT",
+  "keywords": ["uncle", "records", "crm", "erp", "approvals", "workflow"]
+}
