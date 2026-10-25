@@ -9,7 +9,10 @@
     "url": "https://uncleapp.co"
   },
   "homepage": "https://uncleapp.co/claude",
+  "documentationUrl": "https://uncleapp.co/claude",
+  "supportUrl": "https://uncleapp.co/support",
   "privacyPolicyUrl": "https://uncleapp.co/privacy",
+  "termsOfServiceUrl": "https://uncleapp.co/terms",
   "repository": "https://github.com/MaiStudioCO/uncle-claude-plugin",
   "license": "MIT",
   "keywords": [
