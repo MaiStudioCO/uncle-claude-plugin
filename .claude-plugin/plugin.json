@@ -9,7 +9,15 @@
     "url": "https://uncleapp.co"
   },
   "homepage": "https://uncleapp.co/claude",
+  "privacyPolicyUrl": "https://uncleapp.co/privacy",
   "repository": "https://github.com/MaiStudioCO/uncle-claude-plugin",
   "license": "MIT",
-  "keywords": ["uncle", "records", "crm", "erp", "approvals", "workflow"]
+  "keywords": [
+    "uncle",
+    "records",
+    "crm",
+    "erp",
+    "approvals",
+    "workflow"
+  ]
 }
